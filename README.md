@@ -22,7 +22,7 @@
 
 ### 🌐 Sosyal Bağlantılar
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/septe.marte/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/serkan-akan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/serkan-akan-)
 [![ORCID](https://img.shields.io/badge/ORCID-%23A6CE39.svg?&style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/)
 
 ---
